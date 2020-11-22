@@ -1,0 +1,9 @@
+OPCODE TABLE
+CLA
+INP
+LAC
+SUB
+BRN
+DSP
+BRZ
+--------------
